@@ -3,6 +3,7 @@
 ## Way to explore the repository
 As a learning entusiast, you have to visit as follows-
 1. [INTRODUCTION](/Main/INTRODUCTION.md)
+2. [Syntax](/Main/Program/syntax.r)
 
 ## :pray: Support
 This project needs a :star: from you. Don't forget to leave a :star:.
